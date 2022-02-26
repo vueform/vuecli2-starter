@@ -5,7 +5,7 @@
 
 </a>
 
-# Vueform Vue CLI 2 + TailwindCSS 3 Boilerplate
+# Vueform Vue CLI 2 + Tailwind CSS 3 Boilerplate
 
 *Last tested with Nuxt 4.5.0*
 
