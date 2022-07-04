@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@vue/composition-api": "^1.4.5",
-    "@vueform/vueform": "file:./packages/vueform",
+    "@vueform/vueform": "^1.2.6",
     "axios": "^0.25.0",
     "core-js": "^3.6.5",
     "lodash": "^4.17.21",
